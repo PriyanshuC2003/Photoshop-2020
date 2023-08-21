@@ -1,0 +1,17 @@
+<package_installation_info version="2.0">
+	<packageid>BD1C14A4-98EC-47AB-95BC-8D5CC1E48399</packageid>
+	<name>CCDFonts</name>
+	<version>5.1.0.407</version>
+	<target_location>/CCDFonts/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CCDFonts</name>
+			<assets_size>1328938</assets_size>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>AotRSnJiITdHCqvo47WkHFcobdVJQdK/n/ifl3BisZ3iBg1KpeczYG7iqbfX4xFukbkCJoOks8NktzNjsV7sXutFpD0e4BeEi8Wq7SLiK+0SdP1AeEsFSJvSh94/B4AphG6/7YoioxQdVJMArdtwVPcHSGcdlYgzwlzA/smL//nQH85wcq/6wt67HdezMqZkroJ93BUxH99/fZZL9jwkjT8UVo+UtEi3SIpZ5r4AHBUhlntNvJPEEJFa23eKK0GGqEdI78kbN1GkJnRmE0TKaIE104vwizGtcoLhlR+pzqj0lbywEoWUKL1kZscVUYoz7bvfN/AWErO3pHzywuQzoQc/jkTpptl5d5AmUFOfFO8SF6MqxOdlyHnRV3CktqJWM95mecwrlcuJ7Lyk6Ri6XeUEz9az0AsjT8LR1LVQgqzbZ7ir/qjrcjURoZucMRqXt+lSREy3bUn4V2eHitQvlzMxdn51xn84W7TZ7yjE0S6sTLIFLY1QDq+qXH9PijVt</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

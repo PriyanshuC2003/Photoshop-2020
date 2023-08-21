@@ -1,0 +1,26 @@
+<package_installation_info version="2.0">
+	<packageid>A0372C84-35F0-418E-B514-94E88E426443</packageid>
+	<name>CCDAssets</name>
+	<version>5.1.0.407</version>
+	<target_location>/CCDAssets/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CCDAssets</name>
+			<assets_size>30700435</assets_size>
+			<applet_registration_info>
+				<applet_registration_element>
+					<name>CCDAssets</name>
+					<type>BL</type>
+					<version>1.0</version>
+					<module_path>/CCDAssets/CCDAssets.dll</module_path>
+					<display_name>CCDAssets</display_name>
+				</applet_registration_element>
+			</applet_registration_info>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>maz9RfT6RkmkzeTL7erlu6EkJobBwozsnIE/S2TUc5HCBqFvnQBbs7bayDdsUckiCzbxm8IbG+yb0w1FM0EDvMhx4PtTet6ASYh8jle/M7ZK8rGiGvh60R59S4qIv01G3HWSFrNZTDGZRdGA6cR/WGEvLRpHqwkfbjBwdHVdMmt+KV5q9rrCUdLeV0724zJ3DxLIEprJyXJ8IIDNE3KpkFw/Xguf0oiH1O8a16l0w11MjJugmnsvHzXfdlKr3bSEY4j2KnpdsDVj1/ApUH5he2eBcZ+AuP5zfTTQCvU6c93CWZJaKYDsiRXf3B9cs/WIe4sYyfk9/WmpKGeu7XWkcE/F0UsZaP6rVnN4LPHHh+TWBFhuZ1QtEuvfQYuSq3oIyN9Ew1ZAT0fqLbDkWRxwq9paVZvL0tbrf7fWtL1jCFCU85vypcyxhybKQwCJk38K80CX9QesTHcublS459ZtCaI5kgIhBW9d2ku74hgOfnGG9iPgTQMqpVxSDL0CuoAz</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

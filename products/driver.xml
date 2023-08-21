@@ -1,0 +1,41 @@
+<DriverInfo>
+	<ProductInfo>
+		<Name>Adobe Photoshop 2020</Name>
+		<SAPCode>PHSP</SAPCode>
+		<CodexVersion>21.2.1</CodexVersion>
+		<Platform>win64</Platform>
+		<EsdDirectory>./PHSP</EsdDirectory>
+		<Dependencies>
+			<Dependency>
+				<SAPCode>ACR</SAPCode>
+				<BaseVersion>9.6</BaseVersion>
+				<EsdDirectory>./ACR</EsdDirectory>
+			</Dependency>
+			<Dependency>
+				<SAPCode>COCM</SAPCode>
+				<BaseVersion>1.0</BaseVersion>
+				<EsdDirectory>./COCM</EsdDirectory>
+			</Dependency>
+			<Dependency>
+				<SAPCode>CORG</SAPCode>
+				<BaseVersion>1.0</BaseVersion>
+				<EsdDirectory>./CORG</EsdDirectory>
+			</Dependency>
+			<Dependency>
+				<SAPCode>COPS</SAPCode>
+				<BaseVersion>1.0</BaseVersion>
+				<EsdDirectory>./COPS</EsdDirectory>
+			</Dependency>
+			<Dependency>
+				<SAPCode>CORE</SAPCode>
+				<BaseVersion>1.0</BaseVersion>
+				<EsdDirectory>./CORE</EsdDirectory>
+			</Dependency>
+			<Dependency>
+				<SAPCode>LIBS</SAPCode>
+				<BaseVersion>2.14.7</BaseVersion>
+				<EsdDirectory>./LIBS</EsdDirectory>
+			</Dependency>
+		</Dependencies>
+	</ProductInfo>
+</DriverInfo>

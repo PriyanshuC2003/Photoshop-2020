@@ -1,0 +1,17 @@
+<package_installation_info version="2.0">
+	<packageid>856D4718-2AA8-49FF-8372-1481DFA5EF85</packageid>
+	<name>CCDCloudSync</name>
+	<version>5.1.0.407</version>
+	<target_location>/CCDCloudSync/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CCDCloudSync</name>
+			<assets_size>184531</assets_size>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>Oz6RFCKfFyiVJ5ii+fjKLomJ+2J2CmZJBuCvIgSXjLYhCYpocuGFxXYBcNiVTeYiQv+bdEqBMLBC5GM4y2bMAjPZjaDGrFaoKT5uGENv07ZKvi3dKCFoq/JuJrmUglzvNHMLTO895aaLd3hNVWZdaOXFnir3HK6hT7dCC92A0UrI5j3yMvGb1it+/ECWwLrhTzjKMh51spNFB0oqFEowN8Kt/u4PvZSEUxMJ57LV/BJVKtw2Zs3I/HDcwhU7ut6HNfpNFl3F3ACJhEK+iSzxxIABOe1iqMcf3IgUsCNeTxKYQKspvX3aXI6KVYNcbpDb4xfoh2kAoXsmNzidf4kkthrdd0lHC2CQ+rJpXxMPYVpHbpt+YfKWouHZWUOC13+p3Uvrdy2M/uRRZlK3lIuDUBOqTmqBjrkyA6tSyN/ovxq9b6FGP8HCjUtclZTiO2frC4S7XMWI8ELVgwExvas96bjbcVHpGYH5GSLxbdc6UtSsa+d3QO6eibT/kxokYZLB</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

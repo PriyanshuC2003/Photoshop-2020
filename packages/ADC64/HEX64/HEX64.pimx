@@ -1,0 +1,26 @@
+<package_installation_info version="2.0">	
+<packageid>C9541BB3-02A1-4C54-B931-954586D0E3E7</packageid> 
+                                                                                               	<name>HEX64</name>
+<version>5.1.0.407</version>
+	<target_location>/HEX/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype> 
+			<name>HEX64</name>
+			<assets_size>4612720</assets_size> 	
+			<applet_registration_info>
+				<applet_registration_element>
+					<name>HEX</name>
+					<type>UIX</type>
+					<version>1.0</version>
+					<module_path>/HEX/HEX.dll</module_path>
+					<display_name>HEX</display_name>
+				</applet_registration_element>
+			</applet_registration_info>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkFkb2JlIENFRiBIZWxwZXIuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPkhFWC5kbGw8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgSW5jLnt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48L1ZhbGlkYXRpb25JbmZvPg==</validation_xml>
+				<sig>Xer2c4vqZBAD3ZtNdLE6kFaFjrOIlFAmky1FTfRKiBrGFuzZhwGKtjsTTXI71WwVhLVmbbqaJoWI38hR1TmdrWdoX4Kfo4/sCiPbNM4Ac4IWwdv9oUtxlVgI7C1PTcNCpxyvM3wDrg2+Zgq3KLQzmG0zx9d8JCwijkYmu6TdPS+/p465uXthZ/KzJWArGkIKMxfcwz+3bo0a3ewC00zmBI++nJ74hAJtAFxav5Dj4EnfZe3Gku1zp4RYtzrgnqyq3WCE/VjcJjV/8F1Ii/xZtXeoZkNfOG5YnHK/Eu7pmnXL2VasBBxk6Rgiz8hV3OnnYf2iXSrXSb5CYuV8ufNtSspjCA5f9wtYKJ/MeHr10/1Rs5ae00R1h1ykM9nYnIZJyrL7HDvDaLFc/4M88Y9aGYCZpPyIPUoNldOWQQDsPX812YUsSZ0mngQdXuo7lN8chZdrZutL1ozesHWb8NfSs4bp3DkvryxB2waSMwLRTukVNk7bZS26M5+mJVJajTuE</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

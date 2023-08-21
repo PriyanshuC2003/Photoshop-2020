@@ -1,0 +1,28 @@
+<package_installation_info version="2.0">
+	<packageid>37FDDAD3-C10F-41F2-95F6-FD5517928769</packageid> 
+	<name>ElevationManager</name>
+	<version>5.1.0.407</version>
+	<target_location>/ElevationManager/</target_location>
+	<packages>
+		<pimaInfo> 
+			<packagetype>zip</packagetype>
+			<name>ElevationManager</name> 
+			<assets_size>2470112</assets_size>
+			<applet_registration_info>
+				<applet_registration_element>
+					<name>ElevationManager</name>
+					<type>CoreExt</type>
+					<version>1.0</version>
+					<module_path>/ElevationManager/ElevationManager.dll</module_path>
+					<display_name>Elevation Manager</display_name>
+				</applet_registration_element>
+			</applet_registration_info>
+			<modifiers>
+			</modifiers>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkFkb2JlIEluc3RhbGxlci5leGU8L0luc3RhbGxQYXRoPjxTaWduYXR1cmVUeXBlPkRpZ2l0YWxTaWduYXR1cmU8L1NpZ25hdHVyZVR5cGU+PFNpZ25hdHVyZUluZm8+QWRvYmUgSW5jLnt8fURpZ2lDZXJ0IEVWIENvZGUgU2lnbmluZyBDQSAoU0hBMil7fH1EaWdpQ2VydCBIaWdoIEFzc3VyYW5jZSBFViBSb290IENBPC9TaWduYXR1cmVJbmZvPjwvRmlsZT48RmlsZT48SW5zdGFsbFBhdGg+QWRvYmVTZXJ2aWNlSW5zdGFsbGVyLmV4ZTwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5BZG9iZVVwZGF0ZVNlcnZpY2UuZXhlPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPkVsZXZhdGlvbk1hbmFnZXIuZGxsPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>j2ekjtYE/hUbkx30KjOHWu76EiLsxe3Sl2ICvs8BP5TEteMcu7FzEpfZVsT9oVIFCyspDybT+Bkjx3pkEG7hR189xIDajMBpwBBuFl8GTv6yDc0L5cpkWmfFWOtsOW0KOSrfXVuhLb+FEp9vwVFALn/Il/GgVGkGB3eQQaxsPzsObMOEzUW4gj5CydTJid6rDxjwzHPwS4+L8FFx1FcuimUzmuKH25LMbgdwSITes030t1XfQ/MuoIoRXNQQG/Lb75QWTPy6fTVkSywQiRHAvPFN3UqOKVJa/ML9vA1TkFfoHCktn1n/tR6VQ0Cdpd23SLPE+1NE2iouR1Kg2V7F0ux93sb5Y1b93ngHKhO1EG00iRokxUZJEREDfcSLn74m0eRuLrWIF2hfOIyzO/cFFq4XaB0G1LXFtVZBv4/F0iVu3gP3Y66nA7Wtx1TicyPS/9Le/qRmtPIHTKT8cgHl9bqN09BjD+3Tmic8dSd20Bod9g6jZI5GfwVi929XB61O</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

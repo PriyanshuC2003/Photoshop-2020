@@ -1,0 +1,26 @@
+<package_installation_info version="2.0">
+	<packageid>E6959D70-CF63-481F-A865-AC2FEAA9DFB0</packageid> 
+	<name>TCC</name>
+	<version>5.1.0.407</version>
+	<target_location>/TCC/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype> 
+			<name>TCC</name>
+			<assets_size>3631384</assets_size> 	
+			<applet_registration_info>
+				<applet_registration_element>
+					<name>CmdCntr</name>
+					<type>CoreExt</type>
+					<version>1.0</version>
+					<module_path>/TCC/CmdCntr.dll</module_path>
+					<display_name>CmdCntr</display_name>
+				</applet_registration_element>
+			</applet_registration_info>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PEZpbGU+PEluc3RhbGxQYXRoPkNtZENudHIuZGxsPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPlZ1bGNhbkNvbnRyb2wuZGxsPC9JbnN0YWxsUGF0aD48U2lnbmF0dXJlVHlwZT5EaWdpdGFsU2lnbmF0dXJlPC9TaWduYXR1cmVUeXBlPjxTaWduYXR1cmVJbmZvPkFkb2JlIEluYy57fH1EaWdpQ2VydCBFViBDb2RlIFNpZ25pbmcgQ0EgKFNIQTIpe3x9RGlnaUNlcnQgSGlnaCBBc3N1cmFuY2UgRVYgUm9vdCBDQTwvU2lnbmF0dXJlSW5mbz48L0ZpbGU+PEZpbGU+PEluc3RhbGxQYXRoPlZ1bGNhbk1lc3NhZ2U1LmRsbDwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5WdWxjYW5XcmFwcGVyLmRsbDwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjxGaWxlPjxJbnN0YWxsUGF0aD5hZG9iZV9jYXBzLmRsbDwvSW5zdGFsbFBhdGg+PFNpZ25hdHVyZVR5cGU+RGlnaXRhbFNpZ25hdHVyZTwvU2lnbmF0dXJlVHlwZT48U2lnbmF0dXJlSW5mbz5BZG9iZSBJbmMue3x9RGlnaUNlcnQgRVYgQ29kZSBTaWduaW5nIENBIChTSEEyKXt8fURpZ2lDZXJ0IEhpZ2ggQXNzdXJhbmNlIEVWIFJvb3QgQ0E8L1NpZ25hdHVyZUluZm8+PC9GaWxlPjwvVmFsaWRhdGlvbkluZm8+</validation_xml>
+				<sig>a5MjzALaBEXBOdNn6oIF9c0SMp+OzxlIhNxCLh9OqSw9jUzol1dWtMysQyEvnkfTsPy3z3yKk+OL26UaZXLKarIlE4k+ZKyp7WzHuvEwg06u7ua4Nu7LzDoyrxRmngcaOJPX+p2U1kfunJ635F0Mkysx10s/U/MmD5nZsae7HTB1LEy0/JTJGa8UHh70nFc5EAIZuCLj0BE93Sf102w/5ZnSONVxL5t538HTXp5Ck/jLjtE2P6usynIzzygzZU+c5O5zc5bUREiJIAH4la3k2lRIYUirujXcNjEOu4fE1zv88J34c8ncwGbFbPU3KEq+zfvTZtZDpVvl9evLHShNcoybi42Xqr+6dJMMcNXr2WflXPumm1vKAulAGV/xMIWBHdDKuaZQCoRvYryEjA5ShlkfsMfsBECMw8GokQ3bVEULIWwcj0AQGhMkueaHUWaqFLxdw92xkmoaXdRPTYKqgbQ5CP/VmhileJ7pLMehHvM/7AxywN3Xs5/464qy5eEm</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

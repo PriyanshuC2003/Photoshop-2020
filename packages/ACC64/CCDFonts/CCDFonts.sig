@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Signature Version="1.0">
+  <pima>
+    <FileName>CCDFonts.pima</FileName>
+    <FileSize>262974</FileSize>
+    <CheckSum>gWwbXDvBwfSTY5xuI6+IMKCUiAqtPX5TrJz8qiQcKp4HIuJ0zDXnK4r0JCDrMXhG0ZQjOqsgWgpsvQYQ9PFrVQXlE4xQmwMBtZKduw6+3AJc6GgA2IZChYtkiqchk90pBYMSBpbUx5jiBeZeUP/T3pHOPYHGgxq3aCtIUtd1X+shIU+7yjZLf87cpnNt9AQn1WKo2nl8UVOz6qo9f1yOAhEevc+ydoHFKojVWoPan/UUwAWID1IgeWPnw/hdC6hY5ST6ql/UJLLR4wirH4NU+Ug25+eSC+QeYoYz2xt6A/XeMQwiogs4w4rTP512Tmi9DiF3/zMh/hLasI7A80fSwaInLqA4xvBRGfF5q/XCWiUtHw1KWTuRM5+3OmlmcDP3FX/kgqS+6n6EbDtdG3QSP6VggLFNPe30ppp1AryqgCPhpGFxDq4uOzToODoeTIxI1dX3b4WD9vkc1XsEynWrdVhAKmTwadvHxdA07yCgfrqIMj7kdsgiT4x/iGVREop0</CheckSum>
+  </pima>
+  <pimx>
+    <FileName>CCDFonts.pimx</FileName>
+    <FileSize>1103</FileSize>
+    <CheckSum>NVFbc2jjHywLjQQWlCVSXwPxz172u5l+GaC1VJkkPDeqggv0dOWGQCZobEnQ5gDaygclhVE4ZpvotAh/lc8UqUk9Q3aazy1ZV4VemiceI9wlaU/49lE5LxAmcHnrXLMq7HKPRIaRX0Vxr/vSp1Ho+LqWm+U0VXqlijUigOc0ocMopUgCGCWoznFFUtIUh3qXsHUxD7ckvZE7tPR1fQ2m5N7E2rfhS7fZpLb8vCOLBJ3KVrkzixPX3lTbEXdWwr+LOCso2OIwrJJ16umf4WCxIPxgHMASH9DTh6YL0Fbe7EVKk+IRqdQPXHWeIBaXmtjSLUNQFpvzizPF6r00rp1EOYR74Oc/YFbU4uxt0HBa8d2ACD384dW+XgN2Dru6iM2lsNF4hHuBori32IKLb0kej+0rFTvtmQx3N0EMDMdb1/rNkvFQfeEHwridPorYwwDoKQCcppG/iTiBcvCp/kdeFw03h3vtHC5ScxVQqqDI6vB082xtbjYPTyIc6gRn5qtH</CheckSum>
+  </pimx>
+  <Sig>GKRdHfR+9HvJauhjBU5qINe6xbzO44lPgfXrSYIZyRWfxxdEhVwau06EKPXktrqEgjM89Yrd8FWoAp/64PRc0QU3XPELQsOxfD7TMibkRifBxwIBpHHM6fJYAdU4BoyQNBUtlcmw6TZ/YT8DD0TSM/lYC4X/k+DGC2460CBuwio70c+hePFCjIyilS3h/8NOqXJ+LlRsz5t6reXWNb4CYnx+3Xb7KOf5MdpQ83Jt55aCIWwXHox9+eqfLFMPM0DzjaN0q4MHsBr4CwmueB45uxjrhGNzwtspJfbSRvNZolcQSgincm0wDf4svze+y85AeL4s01uHCiurKdRnQ0axQO563LGISXbngHf+TCyACwzZC+NAazxe/EoURsdikew1pls1bNdnD0S/3Ic7lXyOYCFL3ehbs8w9QYMVbGoPJ1pRjG7N9Y4SNyf5Q/9LWSH8UVm0ZgpXxHZf47Ba7VTgvdAshwP54xiV5r7fQ8u6rmkHsWcUE98+1F/BOXx5rERW</Sig>
+</Signature>

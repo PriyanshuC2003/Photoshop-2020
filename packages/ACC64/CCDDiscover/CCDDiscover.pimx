@@ -1,0 +1,17 @@
+<package_installation_info version="2.0">
+	<packageid>E1B02507-9963-4042-A1C2-FA2147E05FA7</packageid>
+	<name>CCDDiscover</name>
+	<version>5.1.0.407</version>
+	<target_location>/CCDDiscover/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CCDDiscover</name>
+			<assets_size>268639</assets_size>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>gvU7IUTEE5UjQskuxsMOj2xvtIrmo2nJKK647CL8c2CuEROpnQ8Bi170PKl7v7Jvm80qBIPvNjncVn5nYgHUSq5AAM/dJt16UnDLsQK+3sGe+v2SYHw7dn1M3GYjaa05gcow1Fh74U0EuXagQYdfa6XNh+eVAml+ni6X6lpBZKMBG6SLYNZhG0Uv9oGsXWW2DRrrjOnGjFOyF1WkORWxpj5FfH1r/uFLUhv+cZGH5jWRJZVXGsYFLdQ8KoXsOHGIwOtuWfsnbHihvJd13RpuiGxBHmo2vFNZePKFbjmTpYuawAL04mH57OmU0+ad+kBz4q1Mre8e4G7Iz8jO64DPexZo9/dL/RH3ZOY3AfdIOq3YFNkhqQZmRnKy6LU5Nzue240q3JOPmv3oGJiO/pTW7eKnqlGZSAoalQK76/uXURx6yoqS/mM/aN4GnKMeJFdBD4vbZ841JIjM18kwcDg97UTwCA1tM8tPNUl0YAOZu5eTE/TOgHi6JbdF2RdJgVed</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

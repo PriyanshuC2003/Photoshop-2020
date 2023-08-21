@@ -1,0 +1,17 @@
+<package_installation_info version="2.0">
+	<packageid>D69C4DEF-A3E8-4B44-BAAA-151DC0566B2A</packageid>
+	<name>CCDApps</name>
+	<version>5.1.0.407</version>
+	<target_location>/CCDApps/</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>zip</packagetype>
+			<name>CCDApps</name>
+			<assets_size>3533823</assets_size>
+			<validation_info>
+				<validation_xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48VmFsaWRhdGlvbkluZm8+PC9WYWxpZGF0aW9uSW5mbz4=</validation_xml>
+				<sig>kGPmosh+39beXxFLIldOteAVmXMp+IZbjLxKIoUq7Ybj1439Ch+vrJtKZNmIgoBtsChE8k/HkbcbYTz/4EmuxA19P4unuppKPFhdJmFFLyNmOy6jn53MHIm/W0KPUdlfCUwJy0loPFeDk2x/vS1QjHrns33zBFGTbZjU9YoRV2YjAY7hKWicMy0tkNSua2QwbYmxtMq1GWdCB9jSTZ/3XsXrI+iEYQjShAkvpI+/gWVsEH0qvBWm56ITPj3fLSns7RoTF8JDAFCfDGLHSwC0/yY05qymyQAd4x1T/pt71IvYH9pDmksotgMeABZ+eCISjujWdOe75ZsYJHh6bpCB+SwSJpNCpFTfKQGMzrNhO8H/qWe9vQ8yhNNDaH7qUKyV00IUcC31Rr5xYfTthnA6w0+kfRuejAVD/lm9u20HVIFhILT/KKfxd60LTHuKkaqTIeCFjNoTaQBHnOjA6vqLlV4JGvkMCyU+AfudeCssYplZ0q2G2dn8tqPl2lNLcPm+</sig>
+			</validation_info>
+		</pimaInfo>
+	</packages>
+</package_installation_info>

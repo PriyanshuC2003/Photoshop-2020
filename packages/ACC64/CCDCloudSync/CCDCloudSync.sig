@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<Signature Version="1.0">
+  <pima>
+    <FileName>CCDCloudSync.pima</FileName>
+    <FileSize>51875</FileSize>
+    <CheckSum>CohH/DEOa7lPr3StmKOjFTAvzg20Re10aKIs/Uy2E5CngrHlmRQo3lHsjSvRY4TriiMZwHNjMN5300wtfhWBjOaU1QG50m6vOytumwgS+IgEp+1xxlNjtZ72CmR4LouOKU71szQmLUZ9wev35yB7rj723gZAb2GNgUnC0wpgshoTZ/V7nJO2honQir1xuTedRVnlXJIDbqSio/uk4INRGwt9Nn4FHgHYfm2gXHsNHvnn04i8Pu9pFnU1VXdcAmolpsZvWuWEU+6sEk5AW2m7uA/PU7I14xTR6i3pSycGnuap1Pml5ShiO/sepeHAmw1JVbL0qwOImOLAi/z0xYOqQKLza4M/y6zkzgCmqQY8JHf7t1RRyixdoMAgwoQQbWdQAk+c+zPhawqzb857DeQgW32uoeyARn2luyc5q3Ps8Xaiic5okZZzkJNUP9wwma5iLcCtNAVeIyNM+HKw3baXJjBxrtDc75WTAUwd+AlTcF98+859wtcr5LpMLPxOy24K</CheckSum>
+  </pima>
+  <pimx>
+    <FileName>CCDCloudSync.pimx</FileName>
+    <FileSize>1114</FileSize>
+    <CheckSum>AeUnEW3RAFciNy2lKKUS0Xh4C/cQjENyRLrd1K0mNbarjT73FAAsoT0jXLhhpAF47XNEfJHrC7z91gY8yUnh3ch6dD/xEocvnkJKf6USHEQwTKszVaJh5rapSurieqr5KniJqTF7QJ3RARRoBk4aS8RZf3HERp0+irFyEyNuR8zrsh+1FShNddLDjG6JAnMql8aTuuaSzXkR4lbMk5UkRjEsepd397uLgwCMvFUOzcF3n6lgDBv1SIULtIkDjEVlL7IoyrP6jMlufPu6yD7YlwKClBEln7bzZ62kNOIAOzQQUY32tqpskyuKsgsIP7iETpSLuPl3p+0jjFCyiRQwKEFRCklN0K+2J0FUq+Ho+Go8j9jxNvf/04jD761vi2vJO84GLh1I0gROD3PFDubvu/ToOEdZBAVEQxEzSFiDcSmw+/LO3sbuxN6YRD0ljTXs9TRIh2GLomx18usJJUEp4pmSKuD55jbZUiuo6AOAuOwLF9EwQUHi3D/K2g3Z+hdx</CheckSum>
+  </pimx>
+  <Sig>Pdq1YD4+PlVhQZ5nm1KkppDY2FFJXkFDCMF63MhInYlUHwT2KUAPxNHO6eZ+NdUTcV0T/Lw+uf648FuSGnqsAkZk0VLkSM27ffeQEcCUTQMPrsSyoG79OACd28Y+ThAYtk0Lk5WN/V4M6mFFzUwqaD3HwOtYaSZGuBrC0oHUsbRO6VbW2TtvbCt5kQAg7Z20TtdqB3kw8i0QE/BV2pVQq5CwKnYJMA/51yybYu1UFhElk9CbKxIV4hdhB6Po/Jn7beUb3UzBrXrgMl64AE8WD8kJcktL5/341HCnZsZPdkQ9X60inPW41f/SSsp5nzG+xFynw/n1Lxgy3rNfoxjBy2cKg2hZBzy7sikIZ9xZ64PlbgQ2mhxoUWw2qEeNij9zc1ZlRUC+VVnsMjv/Q6f0SzDYCG2834sAL4wSo6poHzcDxifvaZ+X4rq/9TVQ/HDC2mUIuoyFqqZ531zFU0wtAl3Z3DoIw0TTV/LRxSisAo90kHNzRsgkmEgn+wbTOb+j</Sig>
+</Signature>
